@@ -38,8 +38,12 @@ Exemple concret : Tesla utilise cette technologie pour ses voitures autonomes. O
 
 Le perceptron est un des premiers modèles de réseaux de neurones. Il utilise une fonction d’activation simple qui fonctionne comme un interrupteur :
 
-``` f(x)={10 si x≥0si x<0 ```
-
+```
+f(x) = { 
+        1 si x ≥ 0 
+        0 si x < 0 
+      } 
+```
 En gros, si le résultat des calculs est positif ou nul, le perceptron "s’allume" (1). Sinon, il reste "éteint" (0).
    
 ## 5. Quel est le processus d'entraînement du Perceptron ?
