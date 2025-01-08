@@ -1,3 +1,13 @@
+# Contexte du projet
+
+
+
+# Outils utilisés
+
+
+
+# Veille
+
 ## ➔ Définissez les notions de Machine Learning et de Deep Learning puis comparez-les. A quel moment doit-on utiliser l’un plutôt que l’autre ?
 
 
@@ -76,3 +86,14 @@ Le perceptron est un modèle simple, mais il a des limites.
 ## 7. Vous développez votre propre Perceptron à l’aide de Python en programmation orientée objet. Vous le testez sur des données factices générées de manière aléatoire.
 
 cf fichier .py
+
+# Les données et leur analyse
+
+
+
+# Conclusion
+
+
+
+# Bibliographie
+
