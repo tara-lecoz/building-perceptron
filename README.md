@@ -1,10 +1,15 @@
 # Contexte du projet
 
-
+Le projet "Initiation au Deep Learning" vise à explorer les concepts fondamentaux de l'intelligence artificielle, en se concentrant sur le Machine Learning et plus particulièrement le Deep Learning. 
 
 # Outils utilisés
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 # Veille
 
@@ -89,7 +94,17 @@ cf fichier .py
 
 # Les données et leur analyse
 
+Dans le cadre de l'analyse des données, une approche rigoureuse a été adoptée pour explorer et comprendre les caractéristiques du jeu de données "Breast Cancer Wisconsin". 
 
+Une analyse univariée a permis d'examiner individuellement chaque variable, en identifiant leurs distributions et leurs propriétés statistiques.
+
+Ensuite, une analyse bivariée a été réalisée pour étudier les relations entre les variables, révélant d'éventuelles corrélations ou tendances.
+
+Enfin, une analyse multivariée a été menée pour explorer les interactions complexes entre plusieurs variables simultanément, en s'appuyant sur des visualisations graphiques claires et informatives. 
+
+Pour simplifier la structure des données et améliorer l'efficacité du modèle, une réduction de dimensionnalité a été effectuée à l'aide de l'Analyse en Composantes Principales (PCA). 
+
+Cette méthode a permis de conserver l'essentiel de l'information tout en réduisant le nombre de variables, facilitant ainsi la modélisation et l'interprétation des résultats.
 
 # Conclusion
 
